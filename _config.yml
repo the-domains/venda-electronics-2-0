@@ -28,6 +28,9 @@ navigation:
   - name: were we CREATE
     id: 3d88b6af-fa51-44b6-8a64-ae2e50d8a469
     type: content
+  - name: a little about US
+    id: e3acf9b3-446b-4956-a6a8-2737a23c4966
+    type: content
 favicon: null
 title: Venda Electronics
 purpose: []
