@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Our factory
-datePublished: '2016-08-03T14:11:21.448Z'
-dateModified: '2016-08-03T14:10:09.568Z'
+datePublished: '2016-08-03T14:23:34.000Z'
+dateModified: '2016-08-03T14:23:06.821Z'
 title: ''
 author: []
 via: {}
