@@ -1,29 +1,33 @@
-name: Venda Electronics 2.0
-favicon: null
-layout_spectrum: 0.5433337788563222
-typography_spectrum: 0.3075310711283237
-title: Venda Electronics
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+typography_spectrum: 0.76771
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6875
+  lightness: 0.3551420848816633
+  saturation: 0.3226485827472061
+  rhythmicContrast: 0.4248277398291975
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#25064D'
-    - '#36175E'
-    - '#553285'
-    - '#7B52AB'
-    - '#9768D1'
-  brandStrength: 0.8366812444292009
-  lightness: 0.2432936041150242
-  saturation: 0.6791670715902001
-  rhythmicContrast: 0.20349311968311667
+layout_spectrum: 0.53168
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Venda Electronics 2.0
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: were we CREATE
+    id: 3d88b6af-fa51-44b6-8a64-ae2e50d8a469
+    type: content
+favicon: null
+title: Venda Electronics
 purpose: []
