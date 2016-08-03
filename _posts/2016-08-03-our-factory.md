@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Our factory
-datePublished: '2016-08-03T14:23:34.000Z'
-dateModified: '2016-08-03T14:23:06.821Z'
+datePublished: '2016-08-03T14:26:49.733Z'
+dateModified: '2016-08-03T14:24:11.931Z'
 title: ''
 author: []
 via: {}
