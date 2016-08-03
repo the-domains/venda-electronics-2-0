@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Venda Electronics]]></title>
-        <description><![CDATA[Venda Electronics]]></description>
+        <title><![CDATA[Vanda Electronics]]></title>
+        <description><![CDATA[Vanda Electronics]]></description>
         <link>https://thegrid.ai/venda-electronics-2-0/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 14:43:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 15:04:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/venda-electronics-2-0/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[our PROUDUCTS]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/257b4cf5-fd8c-4593-ba81-74145fa9a7e5.png">]]></description>
             <link>https://thegrid.ai/venda-electronics-2-0/products/index.html</link>
             <guid isPermaLink="false">3006d071-248f-4554-ae2f-69d8ead9ceff</guid>
-            <pubDate>Wed, 03 Aug 2016 14:24:41 GMT</pubDate>
+            <pubDate>Wed, 03 Aug 2016 15:04:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[a little about US]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/13893839-0806-493e-b2ef-ef7a0a6fe83b.jpg">]]></description>
+            <link>https://thegrid.ai/venda-electronics-2-0/e3acf9b3-446b-4956-a6a8-2737a23c4966/index.html</link>
+            <guid isPermaLink="false">e3acf9b3-446b-4956-a6a8-2737a23c4966</guid>
+            <pubDate>Wed, 03 Aug 2016 14:43:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[were we CREATE]]></title>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/venda-electronics-2-0/our-factory/index.html</link>
             <guid isPermaLink="false">3d88b6af-fa51-44b6-8a64-ae2e50d8a469</guid>
             <pubDate>Wed, 03 Aug 2016 14:43:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[a little about US]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/13893839-0806-493e-b2ef-ef7a0a6fe83b.jpg">]]></description>
-            <link>https://thegrid.ai/venda-electronics-2-0/e3acf9b3-446b-4956-a6a8-2737a23c4966/index.html</link>
-            <guid isPermaLink="false">e3acf9b3-446b-4956-a6a8-2737a23c4966</guid>
-            <pubDate>Wed, 03 Aug 2016 14:26:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
