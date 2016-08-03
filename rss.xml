@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Venda Electronics 2.0]]></title>
+        <description><![CDATA[Venda Electronics 2.0]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 03 Aug 2016 13:50:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6eaee66-c04b-4a39-99c3-3044ccb25ab0.png">]]></description>
+            <link>undefinede3acf9b3-446b-4956-a6a8-2737a23c4966/index.html</link>
+            <guid isPermaLink="false">e3acf9b3-446b-4956-a6a8-2737a23c4966</guid>
+            <pubDate>Wed, 03 Aug 2016 13:49:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
