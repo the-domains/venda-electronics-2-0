@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T14:40:36.477Z'
+datePublished: '2016-08-03T14:43:35.878Z'
 sourcePath: _posts/2016-08-03-our-factory.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-03T14:40:35.587Z'
+dateModified: '2016-08-03T14:43:34.617Z'
 title: were we CREATE
 publisher: {}
 description: Our factory
