@@ -1,0 +1,28 @@
+name: Venda Electronics 2.0
+favicon: null
+layout_spectrum: 0.11296114092692733
+typography_spectrum: 0.7123239079955965
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9946416646707803
+  lightness: 0.3551420848816633
+  saturation: 0.3226485827472061
+  rhythmicContrast: 0.4248277398291975
+purpose: []
