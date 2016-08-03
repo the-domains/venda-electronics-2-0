@@ -5,11 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Our factory
-datePublished: '2016-08-03T14:07:31.966Z'
-dateModified: '2016-08-03T14:07:17.094Z'
+datePublished: '2016-08-03T14:11:21.448Z'
+dateModified: '2016-08-03T14:10:09.568Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-03-our-factory.md
 authors: []
 publisher:
   name: null
@@ -17,7 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-08-03-our-factory.md
 url: our-factory/index.html
 _type: Article
 
