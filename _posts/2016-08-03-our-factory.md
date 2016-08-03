@@ -1,27 +1,25 @@
 ---
+datePublished: '2016-08-03T14:40:36.477Z'
+sourcePath: _posts/2016-08-03-our-factory.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
-description: Our factory
-datePublished: '2016-08-03T14:26:49.733Z'
-dateModified: '2016-08-03T14:24:11.931Z'
-title: ''
 author: []
 via: {}
-sourcePath: _posts/2016-08-03-our-factory.md
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+dateModified: '2016-08-03T14:40:35.587Z'
+title: were we CREATE
+publisher: {}
+description: Our factory
+inLanguage: null
+inNav: true
 starred: false
 url: our-factory/index.html
 _type: Article
 
 ---
+# were we CREATE
+
 Our factory
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e82d4d78-8a3d-4d0c-b149-c3860001fe0b.jpg)
 
